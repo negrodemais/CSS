@@ -1,0 +1,14 @@
+div{
+    float: left;
+    margin: 1px;
+    width: 33%;
+}
+.div1{
+    background-color: green;
+}
+.div2{
+    background-color: blue;
+}
+.div3{
+    background-color: green;
+}

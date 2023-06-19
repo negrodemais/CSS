@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.flex > div{
+    background-color: white;
+    font-size: 30px;
+    justify-content: center;
+    height: 100px;
+    margin: 8px; 
+    text-align: center;
+    width: 100px;
+}
+.flex{
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    display: flex;
+    width: 900px;
+    height: 200px;
+}

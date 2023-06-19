@@ -1,0 +1,37 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    border: 1px solid rgb(0, 0, 0);
+    margin: auto;
+    max-width: 900px;
+    padding: 30px;
+}
+article{
+    background-color: rgb(5, 180, 5);
+    border: 1px solid rgb(0, 0, 0);
+    max-width: 850px;
+    margin: auto;
+    padding: 10px;
+}
+.titulo{
+    text-align: center;
+}
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.imagem{
+    background-color: rgb(255, 0, 0);
+    margin: 10px;
+    height: 300px;
+    width: 200px;
+}
