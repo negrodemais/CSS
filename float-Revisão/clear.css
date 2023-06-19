@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+div{
+   background-color:#4CAF50 ;
+    border: 3px solid #4CAF50;
+    padding: 50px;
+    width: 200px;
+}
+section{
+    border: 1px solid white;
+}
+.img{
+    float: right;
+}
+.titulo{
+    clear: right;
+}
+.img2{
+    float: right;
+}
+.clearfix{
+    overflow: auto; /*sobrepor*/
+}

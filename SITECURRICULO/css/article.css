@@ -1,0 +1,35 @@
+article{
+    flex: 60%;
+}
+article { 
+    display: grid;
+    margin: 10px 10px 10px 10px;
+}
+.segundo{
+    height: 600px;
+}
+section > h5{
+    padding: 13px;
+}
+section > p{
+    padding: 5px;
+}
+.icone1{
+    padding: 15px;
+    display: flex;
+}
+.icone2{
+    padding: 15px;
+    display: flex;
+}
+.icone3{
+    padding: 15px;
+    display: flex;
+}
+.icone4{
+    display: flex;
+    padding: 15px;
+}
+p{
+    margin-bottom: 10px;
+}
